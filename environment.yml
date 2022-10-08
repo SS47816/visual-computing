@@ -56,8 +56,10 @@ dependencies:
   - importlib-metadata=4.11.4=py310hff52083_0
   - importlib_resources=5.9.0=pyhd8ed1ab_0
   - ipykernel=6.16.0=pyh210e3f2_0
+  - ipympl=0.9.2=pyhd8ed1ab_0
   - ipython=8.5.0=pyh41d4057_1
   - ipython_genutils=0.2.0=py_1
+  - ipywidgets=8.0.2=pyhd8ed1ab_1
   - jedi=0.18.1=pyhd8ed1ab_2
   - jinja2=3.1.2=pyhd8ed1ab_1
   - jpeg=9e=h7f8727e_0
@@ -69,6 +71,7 @@ dependencies:
   - jupyterlab=3.4.7=pyhd8ed1ab_0
   - jupyterlab_pygments=0.2.2=pyhd8ed1ab_0
   - jupyterlab_server=2.15.2=pyhd8ed1ab_0
+  - jupyterlab_widgets=3.0.3=pyhd8ed1ab_0
   - keyutils=1.6.1=h166bdaf_0
   - kiwisolver=1.4.2=py310h295c915_0
   - krb5=1.19.3=h3790be6_0
@@ -189,6 +192,7 @@ dependencies:
   - webencodings=0.5.1=py_1
   - websocket-client=1.4.1=pyhd8ed1ab_0
   - wheel=0.37.1=pyhd3eb1b0_0
+  - widgetsnbextension=4.0.3=pyhd8ed1ab_0
   - x264=1!157.20191217=h7b6447c_0
   - xz=5.2.5=h7f8727e_1
   - zeromq=4.3.4=h9c3ff4c_1
